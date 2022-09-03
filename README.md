@@ -1,1 +1,1 @@
-# as
+[patika linkim =>](https://app.patika.dev/ltime)
